@@ -1,5 +1,8 @@
 Enter the sinister world of "Terror in the Labyrinth," a spine-chilling horror game that will test your nerves and wits. Navigate through a dark, twisted labyrinth filled with relentless zombies, eerie mannequins, and treacherous traps.
 
+![intro-screen](https://github.com/user-attachments/assets/6d3ea47d-d175-46a8-8393-95976b0e240f)
+
+
 Key Features:
 
 Zombies: Face off against hordes of zombies that lurk in the shadows, ready to attack at any moment. Use your limited resources wisely to survive their relentless onslaught.
@@ -10,5 +13,4 @@ Atmospheric Horror: Immerse yourself in the game's terrifying atmosphere, with h
 
 Can you find the keys, avoid the pits, outsmart the mannequins, and survive the zombie attacks to escape the labyrinth? Dare to enter and find out in "Lost in the Abyss".
 
-![intro-screen](https://github.com/user-attachments/assets/6d3ea47d-d175-46a8-8393-95976b0e240f)
 
