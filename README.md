@@ -14,3 +14,6 @@ Atmospheric Horror: Immerse yourself in the game's terrifying atmosphere, with h
 Can you find the keys, avoid the pits, outsmart the mannequins, and survive the zombie attacks to escape the labyrinth? Dare to enter and find out in "Lost in the Abyss".
 
 
+Gameplay screens:
+![screen](https://github.com/user-attachments/assets/db33b256-5367-4118-bb40-f9de44ad3ad0)
+![screen2](https://github.com/user-attachments/assets/598fd6b7-11a6-4ca5-90a6-d7e8c6b994ef)
